@@ -1,8 +1,8 @@
 export default function Home() {
   return (
-    <div>
+    <main style={{ padding: 40 }}>
       <h1>Construction App</h1>
-      <p>Welcome</p>
-    </div>
+      <p>Frontend deployed successfully.</p>
+    </main>
   );
 }
